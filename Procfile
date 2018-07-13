@@ -1,1 +1,1 @@
-web: python OseiCurrency/app/routes.py
+web: python routes.py
